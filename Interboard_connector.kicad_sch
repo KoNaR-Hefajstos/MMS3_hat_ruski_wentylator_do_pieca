@@ -5,11 +5,11 @@
 	(uuid "4f2bf8d5-1e5d-468f-b887-f143c723afa4")
 	(paper "A4")
 	(title_block
-		(title "MMS3 Hat template small (Change Me)")
+		(title "MMS3_hat_ruski_wentylator_do_pieca")
 		(date "2026-02-25")
 		(rev "A")
-		(company "Moducard System")
-		(comment 1 "Made by Wojciech Szafrański")
+		(company "MiniModucard System")
+		(comment 1 "Wojciech Szafrański")
 		(comment 2 "Designed in poland")
 	)
 	(lib_symbols
@@ -3130,7 +3130,7 @@
 			(uuid "d6a7f363-3f05-4e86-927c-4afb7aa96937")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR016")
 					(unit 1)
@@ -3210,7 +3210,7 @@
 			(uuid "8c4058c8-b8fe-4e22-af92-14063b0cde07")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR014")
 					(unit 1)
@@ -3288,7 +3288,7 @@
 			(uuid "afdf13ac-835c-4f68-bbd3-02cb568c430a")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR023")
 					(unit 1)
@@ -3368,7 +3368,7 @@
 			(uuid "f9da2c43-c7f6-4b34-9e0b-5f77c686393b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR012")
 					(unit 1)
@@ -3446,7 +3446,7 @@
 			(uuid "d4a28214-b2fa-4e64-b5e6-7829bb306785")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR07")
 					(unit 1)
@@ -3524,7 +3524,7 @@
 			(uuid "42a73f09-b34d-4d72-92b5-65267337b6fc")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR022")
 					(unit 1)
@@ -3604,7 +3604,7 @@
 			(uuid "50ec7375-fb20-4697-9b50-ccc056f51ec2")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR04")
 					(unit 1)
@@ -3684,7 +3684,7 @@
 			(uuid "d0728c5a-4c57-48db-b28b-0a1f03e78708")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR025")
 					(unit 1)
@@ -3867,7 +3867,7 @@
 			(uuid "ff679bdf-2a78-4ce5-ae68-62ea7f361e15")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "J2")
 					(unit 1)
@@ -3947,7 +3947,7 @@
 			(uuid "57490191-3adf-42f0-ac03-5f1407142c9c")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR027")
 					(unit 1)
@@ -4025,7 +4025,7 @@
 			(uuid "3760c99a-6a19-41d2-ab12-1dcd67393cd2")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR09")
 					(unit 1)
@@ -4208,7 +4208,7 @@
 			(uuid "2620f47f-beea-48d3-ba19-5d8c1c64454b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "J1")
 					(unit 1)
@@ -4288,7 +4288,7 @@
 			(uuid "09e0d7bf-1dc2-45cf-823c-f48b54f3e83c")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR017")
 					(unit 1)
@@ -4366,7 +4366,7 @@
 			(uuid "ea1931d6-bb3c-4def-aca7-bd6a4c1b79cb")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR021")
 					(unit 1)
@@ -4446,7 +4446,7 @@
 			(uuid "9588d027-e5cb-4636-8cf6-57c1ddad4ce9")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR028")
 					(unit 1)
@@ -4526,7 +4526,7 @@
 			(uuid "5f3521cc-5935-4dfb-a5a3-e69a75d14d5a")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR019")
 					(unit 1)
@@ -4606,7 +4606,7 @@
 			(uuid "c89cb3b6-a9fa-4dd5-8a75-047d5426d6bc")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR029")
 					(unit 1)
@@ -4684,7 +4684,7 @@
 			(uuid "fd93c025-7e7a-4f3f-a46a-292d62e0ad14")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR020")
 					(unit 1)
@@ -4762,7 +4762,7 @@
 			(uuid "375e0511-061a-45fc-8959-69988cf4a1fd")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR08")
 					(unit 1)
@@ -4842,7 +4842,7 @@
 			(uuid "fd17ba2b-8362-45ae-8888-49b484ad068b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR02")
 					(unit 1)
@@ -4922,7 +4922,7 @@
 			(uuid "f151a410-4cc0-4c40-a187-796b885454a1")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR011")
 					(unit 1)
@@ -5002,7 +5002,7 @@
 			(uuid "6b28cdaa-56cd-4345-a2d5-3377b6693063")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR018")
 					(unit 1)
@@ -5082,7 +5082,7 @@
 			(uuid "d8c775a3-fe02-451b-b09a-a4e4307f47ac")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR015")
 					(unit 1)
@@ -5162,7 +5162,7 @@
 			(uuid "8ae49d41-c79b-4ad9-8730-d75355a3e003")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR026")
 					(unit 1)
@@ -5242,7 +5242,7 @@
 			(uuid "d889591b-c927-45cc-9b1c-e46fbf715e84")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR05")
 					(unit 1)
@@ -5320,7 +5320,7 @@
 			(uuid "d8067fd7-7ecb-4661-acbb-e58b66fe1bfb")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR06")
 					(unit 1)
@@ -5400,7 +5400,7 @@
 			(uuid "1e61bc8b-fd6f-4ac5-a1d2-2c13d2ba5a6f")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR010")
 					(unit 1)
@@ -5480,7 +5480,7 @@
 			(uuid "4813c5ea-1661-4a80-9618-46428dc50ab8")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR024")
 					(unit 1)
@@ -5560,7 +5560,7 @@
 			(uuid "0f800b6f-d4c9-43dc-acea-348c7ca95076")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR03")
 					(unit 1)
@@ -5640,7 +5640,7 @@
 			(uuid "ef25682c-0bcd-4d35-81c2-d025a73b5d63")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR013")
 					(unit 1)

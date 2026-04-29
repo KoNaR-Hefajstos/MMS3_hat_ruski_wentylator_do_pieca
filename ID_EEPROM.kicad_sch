@@ -5,10 +5,11 @@
 	(uuid "8ae4eda8-1dcd-4765-9563-99f70ead8592")
 	(paper "A4")
 	(title_block
-		(title "MMS3 Hat template small (Change Me)")
+		(title "MMS3_hat_ruski_wentylator_do_pieca")
 		(date "2026-02-25")
 		(rev "A")
-		(comment 1 "Made by Wojciech Szafrański")
+		(company "MiniModucard System")
+		(comment 1 "Wojciech Szafrański")
 		(comment 2 "Designed in poland")
 	)
 	(lib_symbols
@@ -1473,7 +1474,7 @@
 			(uuid "d6c04b36-42c6-4c50-be7b-a8dc6cd36ff6")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "U2")
 					(unit 1)
@@ -1551,7 +1552,7 @@
 			(uuid "13b4ae36-0496-4c03-b2d0-173edd7fc00d")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "#PWR045")
 					(unit 1)
@@ -1629,7 +1630,7 @@
 			(uuid "a086252a-3cc6-46e1-a3cc-e808133acbfd")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "#PWR044")
 					(unit 1)
@@ -1876,7 +1877,7 @@
 			(uuid "9deef5c5-5f94-4b1a-ab3a-4d8c57af0a98")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "C2")
 					(unit 1)
@@ -1956,7 +1957,7 @@
 			(uuid "68f239fe-dbb6-45e8-a57e-f1bd33cd0703")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "#PWR043")
 					(unit 1)
@@ -2034,7 +2035,7 @@
 			(uuid "236e8ef2-9f2d-4002-8acc-d9fee3ec57e7")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_ruski_wentylator_do_pieca"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
 					(reference "#PWR042")
 					(unit 1)

@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 43,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -45,11 +45,14 @@
       "pads",
       "zones",
       "drc_warnings",
+      "drc_exclusions",
       "locked_item_shadows",
       "conflict_shadows",
-      "shapes"
+      "shapes",
+      "board_outline_area",
+      "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffd77_ff5fff7f",
     "zone_display_mode": 1
   },
   "git": {
@@ -59,7 +62,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MMS3_hat_templates.kicad_prl",
+    "filename": "MMS3_hat_ruski_wentylator_do_pieca.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,16 +91,16 @@
       9
     ],
     "col_widths": [
-      148,
-      138,
-      113,
+      222,
+      207,
+      136,
       92,
+      136,
+      136,
+      136,
       98,
-      115,
-      100,
-      98,
-      91,
-      91
+      136,
+      136
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MMS3_hat_templates.kicad_pro",
+    "filename": "MMS3_hat_ruski_wentylator_do_pieca.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -590,6 +590,12 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/Boost Converter/Boost_In": [
+        "50V "
+      ],
+      "/Boost Converter/R_Var_GND": [
+        "50V "
+      ],
       "BRD_VIN": [
         "50V "
       ],
@@ -973,6 +979,60 @@
           "label": "Output Type",
           "name": "Output Type",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Crystal Type",
+          "name": "Crystal Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Frequency Stability",
+          "name": "Frequency Stability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Normal Temperature Frequency Tolerance",
+          "name": "Normal Temperature Frequency Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Frequency Tolerance",
+          "name": "Frequency Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Frequency",
+          "name": "Frequency",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TME",
+          "name": "TME",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Load Capacitance",
+          "name": "Load Capacitance",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1062,18 +1122,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "MMS3_hat_templates.kicad_sch",
-        "name": "MMS3_hat_templates",
+        "filename": "MMS3_hat_ruski_wentylator_do_pieca.kicad_sch",
+        "name": "MMS3_hat_ruski_wentylator_do_pieca",
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "D3,#PWR54",
+    "used_designators": "L1-2,R14,R16,R28",
     "variants": []
   },
   "sheets": [
     [
       "6596548a-44e0-46d8-8624-fd71cf4a3e17",
-      "MMS3_hat_templates"
+      "MMS3_hat_ruski_wentylator_do_pieca"
     ],
     [
       "fdb595ff-e94b-4e80-8fe7-e7d367588ab2",
@@ -1090,6 +1150,14 @@
     [
       "56050d79-5900-47d6-893d-3da0e8bf5810",
       "ID EEPROM"
+    ],
+    [
+      "ba51c508-6f0e-482a-857e-8236e5982968",
+      "CH32V003"
+    ],
+    [
+      "99998484-68c4-416c-85c2-2b88ad7cf826",
+      "Boost Converter"
     ]
   ],
   "text_variables": {
