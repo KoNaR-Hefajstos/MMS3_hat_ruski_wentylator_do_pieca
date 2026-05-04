@@ -513,6 +513,14 @@
         "wire_width": 6
       },
       {
+        "clearance": 1.0,
+        "name": "50V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.2,
@@ -522,7 +530,7 @@
         "microvia_drill": 0.1,
         "name": "CAN_120_DIFF",
         "pcb_color": "rgb(255, 81, 215)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.12,
         "tuning_profile": "",
@@ -540,7 +548,7 @@
         "microvia_drill": 0.1,
         "name": "PWR",
         "pcb_color": "rgb(255, 0, 0)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.3,
         "tuning_profile": "",
@@ -558,7 +566,7 @@
         "microvia_drill": 0.1,
         "name": "QSPI_50S_SE",
         "pcb_color": "rgb(55, 255, 75)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.18,
         "tuning_profile": "",
@@ -576,7 +584,7 @@
         "microvia_drill": 0.1,
         "name": "USB_90_DIFF",
         "pcb_color": "rgb(38, 8, 255)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "tuning_profile": "",
@@ -593,7 +601,16 @@
       "/Boost Converter/Boost_In": [
         "50V "
       ],
+      "/Boost Converter/Boost_Out": [
+        "50V "
+      ],
       "/Boost Converter/R_Var_GND": [
+        "50V "
+      ],
+      "/Boost Converter/SW_NODE": [
+        "50V "
+      ],
+      "/CN_MOT_VCC": [
         "50V "
       ],
       "BRD_VIN": [
@@ -1127,7 +1144,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "#PWR83,L1-2,R14,R16,R28",
+    "used_designators": "D4,D8-11,D22,R6",
     "variants": []
   },
   "sheets": [
@@ -1158,6 +1175,10 @@
     [
       "99998484-68c4-416c-85c2-2b88ad7cf826",
       "Boost Converter"
+    ],
+    [
+      "ca33e087-5944-476a-b30e-af42878717a0",
+      "High side switch"
     ]
   ],
   "text_variables": {

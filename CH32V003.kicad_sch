@@ -5204,6 +5204,17 @@
 				)
 			)
 		)
+		(property "Field4" "${REFERENCE}"
+			(at 250.19 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d612c06e-df56-4e2d-b0e9-6c5114f48b55")
 		)
@@ -5998,6 +6009,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 69.85 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "1212c0ab-2cce-421c-bc7d-216568ca6cb7")
 		)
@@ -6337,6 +6359,17 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 134.62 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" "${REFERENCE}"
 			(at 134.62 140.97 0)
 			(hide yes)
 			(show_name no)
