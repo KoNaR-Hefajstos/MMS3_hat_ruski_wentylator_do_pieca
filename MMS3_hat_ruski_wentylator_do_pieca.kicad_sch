@@ -18350,7 +18350,7 @@
 	)
 	(image
 		(at 202.9757 138.843)
-		(scale 0.428133)
+		(scale 0.39328)
 		(uuid "e6d2bb42-a3bd-4f94-85bc-036b8924dd1c")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAYoAAAE5CAIAAAABQvCcAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
 			"ABXgAAAV4AGNVCw4AAAgAElEQVR4nO3dd3wc1dkv8GenbC/aXfVeXXDDDVwB29jYxja2KSGOQzAt"
@@ -18789,7 +18789,7 @@
 			(justify left bottom)
 		)
 		(uuid "984264ed-e872-4dcb-abfa-ddbc80ae6c41")
-		(property "Net Class" "50V "
+		(property "Net Class" "50V"
 			(at 221.996 137.922 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18823,7 +18823,7 @@
 			(justify left bottom)
 		)
 		(uuid "e1531633-9ba1-4505-98fd-65a47ab76da2")
-		(property "Net Class" "50V "
+		(property "Net Class" "50V"
 			(at 166.116 127.762 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -4956,7 +4956,7 @@
 			(justify left bottom)
 		)
 		(uuid "00e16cab-cc01-4361-b7a3-0a503d8c1900")
-		(property "Net Class" "50V "
+		(property "Net Class" "50V"
 			(at 116.586 49.657 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4990,7 +4990,7 @@
 			(justify left bottom)
 		)
 		(uuid "18dfd10b-e13b-41ee-97ba-fdef02752c01")
-		(property "Net Class" "50V "
+		(property "Net Class" "50V"
 			(at 88.646 49.022 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5024,7 +5024,7 @@
 			(justify left bottom)
 		)
 		(uuid "347a0559-cc04-453b-9bb3-3fc7d60dca78")
-		(property "Net Class" "50V "
+		(property "Net Class" "50V"
 			(at 58.166 49.022 0)
 			(show_name no)
 			(do_not_autoplace no)

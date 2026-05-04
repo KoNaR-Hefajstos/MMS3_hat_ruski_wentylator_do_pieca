@@ -60,7 +60,112 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|104750000|105695000|4bed2107-1484-4b58-9a08-3f52f278986f|d53c8fc2-6672-4c3e-9127-a46eab67b8e5",
+          ""
+        ],
+        [
+          "clearance|105130000|99875000|f2798fd5-541e-4729-86db-e4f1c9c88949|6a5eaa18-0948-4be0-8fb8-cb38499cd009",
+          ""
+        ],
+        [
+          "clearance|105660000|112265500|72f06adf-51f4-4d0b-9cd3-3368e0a2f9f5|81d739fa-9e3d-4cc8-9fc8-24f4624469d4",
+          ""
+        ],
+        [
+          "clearance|105660000|113965500|d26fd1fb-840c-40c5-8e6c-320406b366d5|72f06adf-51f4-4d0b-9cd3-3368e0a2f9f5",
+          ""
+        ],
+        [
+          "clearance|105660000|115665500|4dd511f6-83bf-45ea-a32a-70c44fe8f82f|84daf155-f06a-40a0-bc52-7aa2e06a9139",
+          ""
+        ],
+        [
+          "clearance|105660000|115665500|4dd511f6-83bf-45ea-a32a-70c44fe8f82f|d26fd1fb-840c-40c5-8e6c-320406b366d5",
+          ""
+        ],
+        [
+          "clearance|107660000|112800000|1422e953-4e13-481d-bb39-9ef40eeca957|84daf155-f06a-40a0-bc52-7aa2e06a9139",
+          ""
+        ],
+        [
+          "clearance|114475000|108630000|dc3c3863-ee2c-4839-996a-e59adc600601|6e8195df-f45a-4e20-8b20-8259a904b956",
+          ""
+        ],
+        [
+          "clearance|137930000|122850000|dee2e031-772c-4dfe-b63c-77f55fc26336|fc5dd165-ead2-4ef4-8de5-7f5c24a2e28d",
+          ""
+        ],
+        [
+          "clearance|137930000|124450000|8c82cc2c-5022-4025-83a5-0a60e5b023e2|fc5dd165-ead2-4ef4-8de5-7f5c24a2e28d",
+          ""
+        ],
+        [
+          "clearance|140250000|134930000|6fb7afaa-3eb0-44d2-9f84-e120c9a7467d|2fe86b33-d887-4603-ae24-4f2b6ce65e45",
+          ""
+        ],
+        [
+          "clearance|141400000|125650000|07fffd4f-85d8-40a5-807a-ccc15100a2ab|4db446a9-7ee2-48fa-9d6f-d77533dd10f9",
+          ""
+        ],
+        [
+          "clearance|141990000|125500000|1b7dfc7d-e248-4938-9413-72175abf7aa6|a1cb35e1-3fe4-459b-9920-b386d0045039",
+          ""
+        ],
+        [
+          "clearance|142200000|122475000|f113922a-335a-49fa-9501-08bd704d9dd3|465427d8-9da2-4102-be80-ac029a0666c7",
+          ""
+        ],
+        [
+          "clearance|142690000|124850000|4db446a9-7ee2-48fa-9d6f-d77533dd10f9|1b7dfc7d-e248-4938-9413-72175abf7aa6",
+          ""
+        ],
+        [
+          "clearance|142690000|126450000|827ed7cb-cb55-423d-854c-26486105d0bb|1b7dfc7d-e248-4938-9413-72175abf7aa6",
+          ""
+        ],
+        [
+          "clearance|142750000|134930000|2fe86b33-d887-4603-ae24-4f2b6ce65e45|7ed817bb-a0e4-4fed-af50-57e50c5ac187",
+          ""
+        ],
+        [
+          "clearance|145325000|125030000|1eeb6534-3de8-4608-80cd-744ff9f10235|c332d177-cb54-4c09-8835-e081a727e2d7",
+          ""
+        ],
+        [
+          "clearance|145480000|124830000|c16b5069-979f-486d-a958-5abdba687ef9|c332d177-cb54-4c09-8835-e081a727e2d7",
+          ""
+        ],
+        [
+          "clearance|145480000|126470000|8cbad55d-6f39-4b78-a41b-0eed3853ae59|c16b5069-979f-486d-a958-5abdba687ef9",
+          ""
+        ],
+        [
+          "clearance|150482500|125750000|a82f575d-5fb9-4dd8-9417-4a3ecf0ca2dc|7fe57eda-ecd1-49bc-b7e8-ac6176a09d68",
+          ""
+        ],
+        [
+          "clearance|150482500|127337500|096f940c-f6a6-40e3-8cfc-a2d35c0ebb77|a82f575d-5fb9-4dd8-9417-4a3ecf0ca2dc",
+          ""
+        ],
+        [
+          "clearance|152880000|128575000|b6d6bd1f-3309-41b1-8ab3-717de565d59f|8a8f7ab0-dfec-4dbf-8e06-17e5af2a1545",
+          ""
+        ],
+        [
+          "clearance|87945000|110250000|d7f256e5-18f5-43f8-9496-04b633ee5c62|60e3144b-0d7b-4a32-b754-f2163b2188e9",
+          ""
+        ],
+        [
+          "starved_thermal|116560000|93013272|92633035-f4ea-489e-83c4-67a33e47662f|51b9711f-77b2-4305-8cc9-4d9f80f692a6|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|168083750|119880000|92633035-f4ea-489e-83c4-67a33e47662f|81b90d6a-ad7c-4e0b-9418-bf5b26a671b0|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -599,22 +704,22 @@
     "net_colors": null,
     "netclass_assignments": {
       "/Boost Converter/Boost_In": [
-        "50V "
+        "50V"
       ],
       "/Boost Converter/Boost_Out": [
-        "50V "
+        "50V"
       ],
       "/Boost Converter/R_Var_GND": [
         "50V "
       ],
       "/Boost Converter/SW_NODE": [
-        "50V "
+        "50V"
       ],
       "/CN_MOT_VCC": [
-        "50V "
+        "50V"
       ],
       "BRD_VIN": [
-        "50V "
+        "50V"
       ],
       "Net-(D4-K)": [
         "50V "
@@ -1144,7 +1249,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "D4,D8-11,D22,R6",
+    "used_designators": "C3,C5,S1,X2,U7",
     "variants": []
   },
   "sheets": [
