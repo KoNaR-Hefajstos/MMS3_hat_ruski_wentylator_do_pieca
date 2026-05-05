@@ -106,15 +106,15 @@
           ""
         ],
         [
-          "clearance|141400000|125650000|07fffd4f-85d8-40a5-807a-ccc15100a2ab|4db446a9-7ee2-48fa-9d6f-d77533dd10f9",
+          "clearance|140955000|123025000|0a5aa51e-05a2-4782-b742-d6b8527b302c|6a6ea8cb-4bea-40b0-8053-78b7bbbad36a",
+          ""
+        ],
+        [
+          "clearance|141400000|125650000|07fffd4f-85d8-40a5-807a-ccc15100a2ab|827ed7cb-cb55-423d-854c-26486105d0bb",
           ""
         ],
         [
           "clearance|141990000|125500000|1b7dfc7d-e248-4938-9413-72175abf7aa6|a1cb35e1-3fe4-459b-9920-b386d0045039",
-          ""
-        ],
-        [
-          "clearance|142200000|122475000|f113922a-335a-49fa-9501-08bd704d9dd3|465427d8-9da2-4102-be80-ac029a0666c7",
           ""
         ],
         [
@@ -1249,7 +1249,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "C3,C5,S1,X2,U7",
+    "used_designators": "C3,C5,S1,X2,U7,R7",
     "variants": []
   },
   "sheets": [
