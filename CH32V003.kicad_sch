@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "MMS3_hat_ruski_wentylator_do_pieca")
-		(rev "A")
+		(rev "1.1")
 		(company "MiniModucard System")
 		(comment 1 "Wojciech Szafrański")
 		(comment 2 "Designed in poland")
@@ -4508,7 +4508,7 @@
 		(uuid "1e4065f6-8175-47ee-aa1d-e3aa548a104e")
 	)
 	(label "SWIO"
-		(at 57.15 142.24 180)
+		(at 52.07 139.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6617,7 +6617,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 139.7 270)
+		(at 57.15 142.24 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6627,7 +6627,7 @@
 		(dnp no)
 		(uuid "8729133f-b34a-4622-84b1-2120e9a031b5")
 		(property "Reference" "#PWR055"
-			(at 45.72 139.7 0)
+			(at 50.8 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6638,7 +6638,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.212 139.7 90)
+			(at 50.292 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6648,7 +6648,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 139.7 0)
+			(at 57.15 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6659,7 +6659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 139.7 0)
+			(at 57.15 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6670,7 +6670,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 139.7 0)
+			(at 57.15 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "MMS3_hat_ruski_wentylator_do_pieca")
-		(rev "A")
+		(rev "1.1")
 		(company "MiniModucard System")
 		(comment 1 "Wojciech Szafrański")
 		(comment 2 "Designed in poland")
