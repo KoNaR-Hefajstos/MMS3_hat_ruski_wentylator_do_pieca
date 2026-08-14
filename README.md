@@ -1,5 +1,7 @@
 # Hat ruski wentylator do pieca
 
+![zdjecie](hat_photo.png)
+
 ## Sekcja 1: Dokumentacja Hat'a
 
 ### Krótki opis projektu
@@ -145,12 +147,11 @@ Złącze ChainBus dostarcza następujące linie zasilania:
 
 ---
 
-## Sekcja 3: Licencja, linki i tagi
+## Sekcja 3: Licencje
 
-### Licencjonowanie projektu
+### Licencje projektu
 
-*   **PCB:** [CERN-OHL-W](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) - Umożliwia modyfikacje i sprzedaż pod warunkiem zachowania informacji o oryginalnym autorze. Zmiany muszą być open source.
-*   **Software:** [MIT License](https://opensource.org/licenses/MIT) - Umożliwia modyfikacje i sprzedaż komercyjną pod warunkiem zachowania informacji o autorze (zmiany nie muszą być udostępniane jako open source).
+*   **PCB:** CERN-OHL-P
+*   **Software:** MIT License
 
-### Tagi projektu
-#chainbus #MMS3 #ModuCard
+[Template](https://github.com/KoNaR-Hefajstos/MMS3_hat_templates/) jest na licencji CC0 1.0 Universal. **Reszta projektu nie jest na tej licencji**

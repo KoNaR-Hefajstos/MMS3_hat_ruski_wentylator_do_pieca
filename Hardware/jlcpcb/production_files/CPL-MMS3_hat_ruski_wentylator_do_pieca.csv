@@ -32,7 +32,7 @@ J3,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,175.895,-104.41,180.0,top
 J4,AMASS XT60 Male,AMASS_XT60PW-M_1x02_P7.20mm_Horizontal,93.75,-129.625,180.0,top
 J5,AMASS XT60 Female,AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,110.3,-130.625,180.0,top
 J6,Conn_01x04_Socket,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,141.5,-135.055,0.0,top
-J7,Program,PinHeader_1x03_P2.54mm_Vertical,159.86,-111.9,-90.0,top
+J7,Program,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,160.1,-109.975,180.0,top
 J9,Conn_01x06_Socket,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,161.2,-135.055,0.0,top
 L1,47uH 5A,L_12x12mm_H6mm,92.5,-100.0,0.0,top
 Q1,PMOS,TO-220-3_Vertical,150.53,-125.75,90.0,top

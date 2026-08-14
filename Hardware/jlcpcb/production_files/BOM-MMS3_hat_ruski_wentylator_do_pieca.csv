@@ -29,7 +29,7 @@ Whatever the chinese man has (preferably 220uF),"C12,C13,C9",CP_Elec_10x10,C1787
 X322525MOB4SI,X2,OSC-SMD_4P-L3.2-W2.5-BL,C9006,1
 XL6019E1,U3,TO-263-5_L10.2-W9.9-P1.70-LS14.4-TL,C73018,1
 Conn_01x06_Socket,J9,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,,1
-Program,J7,PinHeader_1x03_P2.54mm_Vertical,,1
+Program,J7,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,1
 Conn_01x04_Socket,J6,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,,1
 Chainbus Out,J2,PinSocket_2x16_P2.54mm_Vertical_SMD,,1
 PMOS,Q1,TO-220-3_Vertical,,1
